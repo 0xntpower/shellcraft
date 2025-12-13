@@ -17,7 +17,7 @@ Supports Claude, OpenAI, Gemini, and local models (Ollama) • x86/x64 auto-dete
 * Use case: Production operations
 
 ###### ShellCraft:
-* Purpose: Organize compiler output for hand-crafted shellcode
+* Purpose: Organize compiler output for **hand-crafted** shellcode
 * User: students, security researchers, learners
 * Control: Complete - you decide what to keep, optimize, modify
 * Learning value: High - you see and control every instruction
